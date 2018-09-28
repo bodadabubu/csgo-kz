@@ -1,0 +1,18 @@
+bind W "+mfwd"
+bind S "+mback"
+bind A "+mleft"
+bind D "+mright"
+alias checkfwd ""
+alias checkback ""
+alias checkleft ""
+alias checkright ""
+
+alias +mfwd "-back; +forward; alias checkfwd +forward"
+alias +mback "-forward; +back; alias checkback +back"
+alias +mleft "-moveright; +moveleft; alias checkleft +moveleft"
+alias +mright "-moveleft; +moveright; alias checkright +moveright"
+ 
+alias -mfwd "-forward; checkback; alias checkfwd"
+alias -mback "-back; checkfwd; alias checkback"
+alias -mleft "-moveleft; checkright; alias checkleft"
+alias -mright "-moveright; checkleft; alias checkright"
