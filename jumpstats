@@ -1,0 +1,56 @@
+[h1] CURRENT [u] [b] LONGJUMP PB[/b] [/u]
+
+[b][KZ] <OSsloth> chris jumped 285.4425 units with a LongJump [8 Strafes | 275.331 Pre | 369 Max | Height 57.0 | 88% Sync | CrouchJump: yes | -Forward: yes]
+ #. Sync        Gained      Lost        MaxSpeed    AirTime
+ 1. 100%        19.867      0.000       295.769     13%
+ 2.  91%        14.269      0.000       310.038     13%
+ 3. 100%        11.534      0.499       321.073     11%
+ 4.  92%        6.938       0.416       327.595     8%
+ 5.  91%        11.868      0.000       339.464     14%
+ 6.  91%        9.168       0.000       348.632     9%
+ 7.  91%        11.957      0.000       360.589     13%
+ 8.  52%        7.015       0.000       369.605     16%
+
+
+[h1] CURRENT [u] [b] BLOCKLONGJUMP PB[/b] [/u]
+
+[b][KZ] <OSsloth> chris jumped 284.5343 units with a LongJump [9 Strafes | 275.669 Pre | 364 Max | Height 56.9 | 88% Sync | JumpOff Edge 0.050 | CrouchJump: yes | -Forward: yes] [282 block]
+ #. Sync        Gained      Lost        MaxSpeed    AirTime
+ 1. 100%        18.315      0.000       293.984     13%
+ 2. 100%        11.282      0.000       305.267     11%
+ 3.  80%        8.946       0.000       314.213     9%
+ 4.  67%        9.456       0.000       323.669     11%
+ 5. 100%        10.805      0.000       334.475     11%
+ 6.  91%        9.709       0.000       344.184     10%
+ 7.  87%        11.756      0.000       355.940     15%
+ 8.  75%        5.420       2.234       359.126     7%
+ 9. 100%        5.731       0.000       364.857     8%
+
+
+[h1] CURRENT [u] [b] LONGJUMP VNL PB[/b] [/u]
+
+[b]ljjumper jumped 247.3102 units with a Long Jump [Vanilla | 0.00 Offset | 57.03 Height | 250 Pre | 302 Max | 9 Strafes | 78% Sync | 0.773 Airtime]
+#. Sync Gain Loss Airtime 
+0. - - - 1%
+1. 92% 9.305 0.794 13%
+2. 91% 9.567 0.566 12%
+3. 36% 1.153 0.737 11%
+4. 72% 2.058 0.479 11%
+5. 72% 8.291 0.183 11%
+6. 90% 8.811 1.206 11%
+7. 90% 8.828 0.726 10%
+8. 81% 4.581 0.450 11%
+9. 87% 2.852 0.000 8%
+
+
+[KZ] ljjumper jumped 280.6789 units with a LongJump [9 Strafes | 274.498 Pre | 371 Max | Height 57.0 | 99% Sync | CrouchJump: yes | -Forward: yes]
+#. Sync Gained Lost MaxSpeed AirTime
+1. 100% 17.273 0.000 291.771 14%
+2. 100% 11.479 0.000 303.250 12%
+3. 100% 11.036 0.000 314.287 10%
+4. 100% 10.715 0.000 325.002 13%
+5. 92% 11.300 0.000 336.302 11%
+6. 100% 10.073 0.000 346.375 10%
+7. 100% 9.957 0.000 356.332 12%
+8. 100% 9.196 0.000 365.529 10%
+9. 100% 5.684 0.000 371.213 8%
